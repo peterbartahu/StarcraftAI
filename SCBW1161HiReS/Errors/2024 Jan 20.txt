@@ -1,0 +1,150 @@
+
+//////////////////////////////////////////////////
+TIME: Sat Jan 20 17:18:45 2024
+
+VERSION: 1.16.1.1
+BWAPI:
+  REVISION: 5016
+  CLIENT VERSION: 10003
+  BUILD: RELEASE
+  ERROR: Invalid_Parameter
+  LOCATION: Single Player 
+
+EXCEPTION: 0xC0000005    EXCEPTION_ACCESS_VIOLATION
+FAULT:     0x00754130    StarCraft.exe
+REGISTERS:
+  EDI: 00000215
+  ESI: 000505D4
+  EBX: 00754130
+  EDX: 00000000
+  ECX: 00754130
+  EAX: 00000000
+  EBP: 0019F704
+  EIP: 00754130
+  ESP: 0019F6DC
+STACK:
+  StarCraft.exe     0x00754130      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x7538DB96    SetMenu
+  USER32.dll        0x7538E67B    CallWindowProcA
+  BWAPI.dll         0x10051604      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x753636AA    CallWindowProcW
+  USER32.dll        0x7536D5BF    GetPropW
+  ntdll.dll         0x77248CED    KiUserCallbackDispatcher
+  APMAlert.bwl      0x069145C7      ----
+  APMAlert.bwl      0x06914903      ----
+  ntdll.dll         0x772466B6    RtlIpv6AddressToStringA
+  ntdll.dll         0x77216F1E    RtlDeactivateActivationContextUnsafeFast
+  ntdll.dll         0x7722E66D    LdrShutdownProcess
+  ntdll.dll         0x7722E2D5    RtlExitUserProcess
+  KERNEL32.DLL      0x760A7493    ExitProcess
+  StarCraft.exe     0x00404E25    _CorExitProcess
+  StarCraft.exe     0x00404F8A    _exit
+  StarCraft.exe     0x004E0B20    WinMain(x,x,x,x)
+  StarCraft.exe     0x00404DA5    start
+  KERNEL32.DLL      0x76097BA9    BaseThreadInitThunk
+  ntdll.dll         0x7723BD2B    RtlInitializeExceptionChain
+  ntdll.dll         0x7723BCAF    RtlClearBits
+
+//////////////////////////////////////////////////
+TIME: Sat Jan 20 17:39:19 2024
+
+VERSION: 1.16.1.1
+BWAPI:
+  REVISION: 5016
+  CLIENT VERSION: 10003
+  BUILD: RELEASE
+  ERROR: Invalid_Parameter
+  LOCATION: Single Player 
+
+EXCEPTION: 0xC0000005    EXCEPTION_ACCESS_VIOLATION
+FAULT:     0x00754130    StarCraft.exe
+REGISTERS:
+  EDI: 00000215
+  ESI: 00090560
+  EBX: 00754130
+  EDX: 00000000
+  ECX: 00754130
+  EAX: 00000000
+  EBP: 0019F704
+  EIP: 00754130
+  ESP: 0019F6DC
+STACK:
+  StarCraft.exe     0x00754130      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x7538DB96    SetMenu
+  USER32.dll        0x7538E67B    CallWindowProcA
+  BWAPI.dll         0x10051604      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x753636AA    CallWindowProcW
+  USER32.dll        0x7536D5BF    GetPropW
+  ntdll.dll         0x77248CED    KiUserCallbackDispatcher
+  APMAlert.bwl      0x067A45C7      ----
+  APMAlert.bwl      0x067A4903      ----
+  ntdll.dll         0x772466B6    RtlIpv6AddressToStringA
+  ntdll.dll         0x77216F1E    RtlDeactivateActivationContextUnsafeFast
+  ntdll.dll         0x7722E66D    LdrShutdownProcess
+  ntdll.dll         0x7722E2D5    RtlExitUserProcess
+  KERNEL32.DLL      0x760A7493    ExitProcess
+  StarCraft.exe     0x00404E25    _CorExitProcess
+  StarCraft.exe     0x00404F8A    _exit
+  StarCraft.exe     0x004E0B20    WinMain(x,x,x,x)
+  StarCraft.exe     0x00404DA5    start
+  KERNEL32.DLL      0x76097BA9    BaseThreadInitThunk
+  ntdll.dll         0x7723BD2B    RtlInitializeExceptionChain
+  ntdll.dll         0x7723BCAF    RtlClearBits
+
+//////////////////////////////////////////////////
+TIME: Sat Jan 20 17:43:25 2024
+
+VERSION: 1.16.1.1
+BWAPI:
+  REVISION: 5016
+  CLIENT VERSION: 10003
+  BUILD: RELEASE
+  ERROR: Invalid_Parameter
+  LOCATION: Single Player 
+
+EXCEPTION: 0xC0000005    EXCEPTION_ACCESS_VIOLATION
+FAULT:     0x00754130    StarCraft.exe
+REGISTERS:
+  EDI: 00000215
+  ESI: 00210C90
+  EBX: 00754130
+  EDX: 00000000
+  ECX: 00754130
+  EAX: 00000000
+  EBP: 0019F704
+  EIP: 00754130
+  ESP: 0019F6DC
+STACK:
+  StarCraft.exe     0x00754130      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x7538DB96    SetMenu
+  USER32.dll        0x7538E67B    CallWindowProcA
+  BWAPI.dll         0x10051604      ----
+  USER32.dll        0x75372E53    Ordinal2713
+  USER32.dll        0x75363C26    CallWindowProcW
+  USER32.dll        0x753636AA    CallWindowProcW
+  USER32.dll        0x7536D5BF    GetPropW
+  ntdll.dll         0x77248CED    KiUserCallbackDispatcher
+  APMAlert.bwl      0x069145C7      ----
+  APMAlert.bwl      0x06914903      ----
+  ntdll.dll         0x772466B6    RtlIpv6AddressToStringA
+  ntdll.dll         0x77216F1E    RtlDeactivateActivationContextUnsafeFast
+  ntdll.dll         0x7722E66D    LdrShutdownProcess
+  ntdll.dll         0x7722E2D5    RtlExitUserProcess
+  KERNEL32.DLL      0x760A7493    ExitProcess
+  StarCraft.exe     0x00404E25    _CorExitProcess
+  StarCraft.exe     0x00404F8A    _exit
+  StarCraft.exe     0x004E0B20    WinMain(x,x,x,x)
+  StarCraft.exe     0x00404DA5    start
+  KERNEL32.DLL      0x76097BA9    BaseThreadInitThunk
+  ntdll.dll         0x7723BD2B    RtlInitializeExceptionChain
+  ntdll.dll         0x7723BCAF    RtlClearBits

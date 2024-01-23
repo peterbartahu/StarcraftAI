@@ -1,0 +1,13 @@
+2/1 09:58:51.015  Connecting to Battle.net...
+2/1 09:58:51.171  Trying to load ws2_32.dll
+2/1 09:58:51.171      querying gateway
+2/1 09:58:51.250      searching for the fastest server
+2/1 09:58:51.328      connected to server
+2/1 09:58:51.359  Connected to server 213.248.106.201
+2/1 09:58:51.359      Validating ID
+2/1 09:58:51.375  connected to server
+2/1 09:58:51.500      requesting latest version
+2/1 09:58:52.234  downloading upgrade
+2/1 09:58:53.187  ERROR DownloadToDisk: connection lost (0)
+2/1 09:58:53.187  Disconnecting from server
+2/1 09:58:53.203  Could not connect to Battle.net

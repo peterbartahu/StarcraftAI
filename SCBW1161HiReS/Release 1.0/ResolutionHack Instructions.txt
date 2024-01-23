@@ -1,0 +1,34 @@
+ResolutionHack v1.0
+
+#########
+ English
+#########
+
+
+On Windows Vista or Windows 7 it is required that the StarcraftResolutionHack.exe is started as Administrator per rightclick!
+
+
+ Install Instructions:
+ -Unzip the package.
+ -Run StarcraftResolutionHack.exe
+
+
+If you see any errors please report them to me at twistedmcbane@googlemail.com and attach the Log.txt
+
+If you want to record Videos you have to download the right codec in the download section at www.starcraftresolutionhack.de.vu
+
+#########
+ Deutsch
+#########
+
+
+Bei Windows Vista oder Windows 7 muss die StarcraftResolutionHack.exe per rechtsklick als Administrator gestartet werden!
+
+ Installations anleitung:
+ -Zip datei Entpacken.
+ -StarcraftResolutionHack.exe Starten.
+
+
+Falls Fehler bei euch auftreten schreibt mir bitte ne email mit ner beschreibung an twistedmcbane@googlemail.com und schickt die Log.txt mit
+
+Wenn ihr Videos aufnehmen wollt dann müsst ihr den richtigen codec in der download section runterladen www.starcraftresolutionhack.de.vu
