@@ -3,7 +3,7 @@
 **THE WAR HAS BEGUN**
 
 _Used tools:_
-  - Java JDK 8
+  - Java JDK 11
   - JBWAP
     - https://github.com/JavaBWAPI/JBWAPI/releases
 
