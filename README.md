@@ -1,4 +1,4 @@
-**StarCraft 1 TERRAN BOT**
+**StarCraft 1 TERRAN BOT** with https://github.com/Miglecz
 
 **THE WAR HAS BEGUN**
 
