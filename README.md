@@ -9,8 +9,11 @@ _Used tools:_
 
 
 _Description:_
-  My goal is to develop AI player who can fight against computer and beat it.
+  My goal is to develop AI player who can fight against computer AI. 
 
 _AI Development steps:_
-  - Send SCV-s to minerals
-  - Find Command Center and Create SCV-s
+  - Find idle workers
+  - Find Command Center
+  - Find minerals around Command Center
+  - Send idle workers to minerals
+  - Train SCV-s in Command Center
