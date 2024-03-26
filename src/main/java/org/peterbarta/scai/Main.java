@@ -1,9 +1,12 @@
 package org.peterbarta.scai;
 
-import org.peterbarta.scai.bot.Javabot1;
+import org.peterbarta.scai.bot.Bot;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
     public static void main(final String[] args) {
-        new Javabot1().run();
+        try (final AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ContextConfiguration.class)) {
+            context.getBean(Bot.class).run();
+        }
     }
 }

@@ -1,51 +1,406 @@
-2024. 03. 19. 21:37:15 18244 Logging started
-2024. 03. 19. 21:37:15 18244 Begin Startup
-2024. 03. 19. 21:37:15 18244 Chaosauncher 0.5.4.1 on NT 6.2.9200  at C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Chaoslauncher - MultiInstance.exe
-2024. 03. 19. 21:37:15 18244 Load Settings
-2024. 03. 19. 21:37:15 18244 GamePath: C:\Starcraft\SCBW1161HiReS\
-2024. 03. 19. 21:37:15 18244 Load Plugins
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\iccscbn.icc
-2024. 03. 19. 21:37:15 18244 Plugin loaded ICCup
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
-2024. 03. 19. 21:37:15 18244 Plugin loaded APMAlert (1.16.1)
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
-2024. 03. 19. 21:37:15 18244 Plugin loaded BWAPI 4.4.0 Injector [RELEASE]
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
-2024. 03. 19. 21:37:15 18244 Plugin loaded BWAPI 4.4.0 Injector [DEBUG]
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
-2024. 03. 19. 21:37:15 18244 Plugin loaded Chaosplugin for 1.16.1
-2024. 03. 19. 21:37:15 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded LatencyChanger for 1.16.1
-2024. 03. 19. 21:37:16 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\repfix.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded RepFix
-2024. 03. 19. 21:37:16 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded RWAPlayer (1.16.1)
-2024. 03. 19. 21:37:16 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded RWARecorder (1.16.1)
-2024. 03. 19. 21:37:16 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded Stormplugin for 1.16.1
-2024. 03. 19. 21:37:16 18244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\wmode.bwl
-2024. 03. 19. 21:37:16 18244 Plugin loaded W-MODE 1.02
-2024. 03. 19. 21:37:16 18244 Load Tools
-2024. 03. 19. 21:37:16 18244 Init GUI
-2024. 03. 19. 21:37:16 18244 Get Starcraftversions
-2024. 03. 19. 21:37:16 18244 Init complete
-2024. 03. 19. 21:37:18 18244 Startbutton
-2024. 03. 19. 21:37:18 18244 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
-2024. 03. 19. 21:37:18 18244 APMAlert (1.16.1) Version 1.0.0.2 Compatible
-2024. 03. 19. 21:37:18 18244 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
-2024. 03. 19. 21:37:18 18244 W-MODE 1.02 Version 1.0.2 Compatible
-2024. 03. 19. 21:37:18 18244 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+2024. 03. 26. 20:32:19 24340 Logging started
+2024. 03. 26. 20:32:19 24340 Begin Startup
+2024. 03. 26. 20:32:19 24340 Chaosauncher 0.5.4.1 on NT 6.2.9200  at C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Chaoslauncher - MultiInstance.exe
+2024. 03. 26. 20:32:19 24340 Load Settings
+2024. 03. 26. 20:32:19 24340 GamePath: C:\Starcraft\SCBW1161HiReS\
+2024. 03. 26. 20:32:19 24340 Load Plugins
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\iccscbn.icc
+2024. 03. 26. 20:32:19 24340 Plugin loaded ICCup
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded APMAlert (1.16.1)
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded BWAPI 4.4.0 Injector [DEBUG]
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded Chaosplugin for 1.16.1
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded LatencyChanger for 1.16.1
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\repfix.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded RepFix
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
+2024. 03. 26. 20:32:19 24340 Plugin loaded RWAPlayer (1.16.1)
+2024. 03. 26. 20:32:19 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
+2024. 03. 26. 20:32:20 24340 Plugin loaded RWARecorder (1.16.1)
+2024. 03. 26. 20:32:20 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
+2024. 03. 26. 20:32:20 24340 Plugin loaded Stormplugin for 1.16.1
+2024. 03. 26. 20:32:20 24340 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\wmode.bwl
+2024. 03. 26. 20:32:20 24340 Plugin loaded W-MODE 1.02
+2024. 03. 26. 20:32:20 24340 Load Tools
+2024. 03. 26. 20:32:20 24340 Init GUI
+2024. 03. 26. 20:32:20 24340 Get Starcraftversions
+2024. 03. 26. 20:32:20 24340 Init complete
+2024. 03. 26. 20:50:38 24340 Startbutton
+2024. 03. 26. 20:50:38 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 20:50:38 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 20:50:38 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 20:50:38 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 20:50:38 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
 (1300)
-2024. 03. 19. 21:37:18 18244 CreateProcess
-2024. 03. 19. 21:37:19 18244 Call ScSuspended for all active Plugins
-2024. 03. 19. 21:37:19 18244 ApplyPatchSuspended for APMAlert (1.16.1)
-2024. 03. 19. 21:37:19 18244 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
-2024. 03. 19. 21:37:20 18244 ApplyPatchSuspended for W-MODE 1.02
-2024. 03. 19. 21:37:20 18244 ResumeThread
-2024. 03. 19. 21:37:20 18244 WaitForInputIdle
-2024. 03. 19. 21:37:20 18244 Call ScWindowCreated for all active Plugins
-2024. 03. 19. 21:37:20 18244 ApplyPatch for APMAlert (1.16.1)
-2024. 03. 19. 21:37:20 18244 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
-2024. 03. 19. 21:37:20 18244 ApplyPatch for W-MODE 1.02
-2024. 03. 19. 21:37:20 18244 Starting Starcraft completed
+2024. 03. 26. 20:50:38 24340 CreateProcess
+2024. 03. 26. 20:50:39 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 20:50:39 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 20:50:39 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:50:40 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 20:50:40 24340 ResumeThread
+2024. 03. 26. 20:50:40 24340 WaitForInputIdle
+2024. 03. 26. 20:50:40 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 20:50:40 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 20:50:40 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:50:40 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 20:50:40 24340 Starting Starcraft completed
+2024. 03. 26. 20:53:03 24340 Startbutton
+2024. 03. 26. 20:53:03 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 20:53:03 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 20:53:03 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 20:53:03 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 20:53:03 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 20:53:03 24340 CreateProcess
+2024. 03. 26. 20:53:03 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 20:53:03 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 20:53:03 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:53:04 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 20:53:04 24340 ResumeThread
+2024. 03. 26. 20:53:04 24340 WaitForInputIdle
+2024. 03. 26. 20:53:05 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 20:53:05 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 20:53:05 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:53:05 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 20:53:05 24340 Starting Starcraft completed
+2024. 03. 26. 20:56:15 24340 Startbutton
+2024. 03. 26. 20:56:15 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 20:56:15 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 20:56:15 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 20:56:15 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 20:56:15 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 20:56:15 24340 CreateProcess
+2024. 03. 26. 20:56:15 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 20:56:15 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 20:56:15 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:56:16 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 20:56:16 24340 ResumeThread
+2024. 03. 26. 20:56:16 24340 WaitForInputIdle
+2024. 03. 26. 20:56:16 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 20:56:16 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 20:56:16 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 20:56:16 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 20:56:16 24340 Starting Starcraft completed
+2024. 03. 26. 21:09:20 24340 Startbutton
+2024. 03. 26. 21:09:20 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:09:20 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:09:20 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:09:20 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:09:20 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:09:20 24340 CreateProcess
+2024. 03. 26. 21:09:20 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:09:20 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:09:20 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:09:21 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:09:21 24340 ResumeThread
+2024. 03. 26. 21:09:21 24340 WaitForInputIdle
+2024. 03. 26. 21:09:21 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:09:21 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:09:22 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:09:22 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:09:22 24340 Starting Starcraft completed
+2024. 03. 26. 21:13:59 24340 Startbutton
+2024. 03. 26. 21:13:59 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:13:59 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:13:59 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:13:59 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:13:59 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:13:59 24340 CreateProcess
+2024. 03. 26. 21:13:59 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:13:59 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:13:59 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:14:00 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:14:00 24340 ResumeThread
+2024. 03. 26. 21:14:00 24340 WaitForInputIdle
+2024. 03. 26. 21:14:00 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:14:00 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:14:00 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:14:00 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:14:00 24340 Starting Starcraft completed
+2024. 03. 26. 21:18:00 24340 Startbutton
+2024. 03. 26. 21:18:00 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:18:00 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:18:00 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:18:00 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:18:00 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:18:00 24340 CreateProcess
+2024. 03. 26. 21:18:00 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:18:00 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:18:00 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:18:01 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:18:01 24340 ResumeThread
+2024. 03. 26. 21:18:01 24340 WaitForInputIdle
+2024. 03. 26. 21:18:01 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:18:01 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:18:01 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:18:01 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:18:01 24340 Starting Starcraft completed
+2024. 03. 26. 21:19:24 24340 Startbutton
+2024. 03. 26. 21:19:24 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:19:24 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:19:24 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:19:24 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:19:24 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:19:24 24340 CreateProcess
+2024. 03. 26. 21:19:24 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:19:24 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:19:24 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:19:25 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:19:25 24340 ResumeThread
+2024. 03. 26. 21:19:25 24340 WaitForInputIdle
+2024. 03. 26. 21:19:25 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:19:25 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:19:25 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:19:25 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:19:25 24340 Starting Starcraft completed
+2024. 03. 26. 21:23:51 24340 Startbutton
+2024. 03. 26. 21:23:51 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:23:51 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:23:51 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:23:51 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:23:51 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:23:51 24340 CreateProcess
+2024. 03. 26. 21:23:51 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:23:51 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:23:51 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:23:52 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:23:52 24340 ResumeThread
+2024. 03. 26. 21:23:52 24340 WaitForInputIdle
+2024. 03. 26. 21:23:52 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:23:52 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:23:52 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:23:52 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:23:52 24340 Starting Starcraft completed
+2024. 03. 26. 21:24:57 24340 Startbutton
+2024. 03. 26. 21:24:57 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:24:57 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:24:57 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:24:57 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:24:57 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:24:57 24340 CreateProcess
+2024. 03. 26. 21:24:57 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:24:57 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:24:57 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:24:58 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:24:58 24340 ResumeThread
+2024. 03. 26. 21:24:58 24340 WaitForInputIdle
+2024. 03. 26. 21:24:58 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:24:58 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:24:58 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:24:58 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:24:58 24340 Starting Starcraft completed
+2024. 03. 26. 21:29:48 24340 Startbutton
+2024. 03. 26. 21:29:48 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:29:48 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:29:48 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:29:48 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:29:48 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:29:48 24340 CreateProcess
+2024. 03. 26. 21:29:48 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:29:48 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:29:48 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:29:49 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:29:49 24340 ResumeThread
+2024. 03. 26. 21:29:49 24340 WaitForInputIdle
+2024. 03. 26. 21:29:49 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:29:49 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:29:49 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:29:49 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:29:49 24340 Starting Starcraft completed
+2024. 03. 26. 21:32:46 24340 Startbutton
+2024. 03. 26. 21:32:46 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:32:46 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:32:46 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:32:46 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:32:46 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:32:46 24340 CreateProcess
+2024. 03. 26. 21:32:46 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:32:46 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:32:46 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:32:47 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:32:47 24340 ResumeThread
+2024. 03. 26. 21:32:47 24340 WaitForInputIdle
+2024. 03. 26. 21:32:48 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:32:48 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:32:48 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:32:48 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:32:48 24340 Starting Starcraft completed
+2024. 03. 26. 21:33:30 24340 Startbutton
+2024. 03. 26. 21:33:30 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:33:30 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:33:30 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:33:30 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:33:30 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:33:30 24340 CreateProcess
+2024. 03. 26. 21:33:30 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:33:30 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:33:30 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:33:31 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:33:31 24340 ResumeThread
+2024. 03. 26. 21:33:31 24340 WaitForInputIdle
+2024. 03. 26. 21:33:31 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:33:31 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:33:31 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:33:31 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:33:31 24340 Starting Starcraft completed
+2024. 03. 26. 21:38:16 24340 Startbutton
+2024. 03. 26. 21:38:16 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:38:16 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:38:16 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:38:16 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:38:16 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:38:16 24340 CreateProcess
+2024. 03. 26. 21:38:16 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:38:16 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:38:16 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:38:17 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:38:17 24340 ResumeThread
+2024. 03. 26. 21:38:17 24340 WaitForInputIdle
+2024. 03. 26. 21:38:17 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:38:17 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:38:17 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:38:17 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:38:17 24340 Starting Starcraft completed
+2024. 03. 26. 21:41:13 24340 Startbutton
+2024. 03. 26. 21:41:13 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:41:13 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:41:13 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:41:13 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:41:13 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:41:13 24340 CreateProcess
+2024. 03. 26. 21:41:13 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:41:13 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:41:13 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:41:14 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:41:14 24340 ResumeThread
+2024. 03. 26. 21:41:14 24340 WaitForInputIdle
+2024. 03. 26. 21:41:15 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:41:15 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:41:15 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:41:15 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:41:15 24340 Starting Starcraft completed
+2024. 03. 26. 21:56:41 24340 Startbutton
+2024. 03. 26. 21:56:41 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 21:56:41 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 21:56:41 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 21:56:41 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 21:56:41 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 21:56:41 24340 CreateProcess
+2024. 03. 26. 21:56:41 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 21:56:41 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 21:56:41 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:56:42 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 21:56:42 24340 ResumeThread
+2024. 03. 26. 21:56:42 24340 WaitForInputIdle
+2024. 03. 26. 21:56:42 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 21:56:42 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 21:56:42 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 21:56:42 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 21:56:42 24340 Starting Starcraft completed
+2024. 03. 26. 22:07:56 24340 Startbutton
+2024. 03. 26. 22:07:56 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 22:07:56 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 22:07:56 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 22:07:56 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 22:07:56 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 22:07:56 24340 CreateProcess
+2024. 03. 26. 22:07:56 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 22:07:56 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 22:07:56 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:07:57 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 22:07:57 24340 ResumeThread
+2024. 03. 26. 22:07:57 24340 WaitForInputIdle
+2024. 03. 26. 22:07:57 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 22:07:57 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 22:07:57 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:07:57 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 22:07:57 24340 Starting Starcraft completed
+2024. 03. 26. 22:12:58 24340 Startbutton
+2024. 03. 26. 22:12:58 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 22:12:58 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 22:12:58 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 22:12:58 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 22:12:58 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 22:12:58 24340 CreateProcess
+2024. 03. 26. 22:12:58 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 22:12:59 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 22:12:59 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:13:00 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 22:13:00 24340 ResumeThread
+2024. 03. 26. 22:13:00 24340 WaitForInputIdle
+2024. 03. 26. 22:13:00 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 22:13:00 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 22:13:00 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:13:00 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 22:13:00 24340 Starting Starcraft completed
+2024. 03. 26. 22:32:48 24340 Startbutton
+2024. 03. 26. 22:32:48 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 22:32:48 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 22:32:48 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 22:32:48 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 22:32:48 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 22:32:48 24340 CreateProcess
+2024. 03. 26. 22:32:48 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 22:32:48 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 22:32:48 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:32:49 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 22:32:49 24340 ResumeThread
+2024. 03. 26. 22:32:49 24340 WaitForInputIdle
+2024. 03. 26. 22:32:49 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 22:32:49 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 22:32:49 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:32:49 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 22:32:49 24340 Starting Starcraft completed
+2024. 03. 26. 22:34:58 24340 Startbutton
+2024. 03. 26. 22:34:58 24340 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 03. 26. 22:34:58 24340 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 03. 26. 22:34:58 24340 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 03. 26. 22:34:58 24340 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 03. 26. 22:34:58 24340 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+(1300)
+2024. 03. 26. 22:34:58 24340 CreateProcess
+2024. 03. 26. 22:34:58 24340 Call ScSuspended for all active Plugins
+2024. 03. 26. 22:34:58 24340 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 03. 26. 22:34:58 24340 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:34:59 24340 ApplyPatchSuspended for W-MODE 1.02
+2024. 03. 26. 22:34:59 24340 ResumeThread
+2024. 03. 26. 22:34:59 24340 WaitForInputIdle
+2024. 03. 26. 22:34:59 24340 Call ScWindowCreated for all active Plugins
+2024. 03. 26. 22:34:59 24340 ApplyPatch for APMAlert (1.16.1)
+2024. 03. 26. 22:34:59 24340 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:34:59 24340 ApplyPatch for W-MODE 1.02
+2024. 03. 26. 22:34:59 24340 Starting Starcraft completed
+2024. 03. 26. 22:39:44 24340 Finishing
+2024. 03. 26. 22:39:44 24340 Unloading Plugin ICCup
+2024. 03. 26. 22:39:44 24340 Unloading Plugin APMAlert (1.16.1)
+2024. 03. 26. 22:39:44 24340 Unloading Plugin BWAPI 4.4.0 Injector [RELEASE]
+2024. 03. 26. 22:39:44 24340 Unloading Plugin BWAPI 4.4.0 Injector [DEBUG]
+2024. 03. 26. 22:39:44 24340 Unloading Plugin Chaosplugin for 1.16.1
+2024. 03. 26. 22:39:44 24340 Unloading Plugin LatencyChanger for 1.16.1
+2024. 03. 26. 22:39:44 24340 Unloading Plugin RepFix
+2024. 03. 26. 22:39:44 24340 Unloading Plugin RWAPlayer (1.16.1)
+2024. 03. 26. 22:39:44 24340 Unloading Plugin RWARecorder (1.16.1)
+2024. 03. 26. 22:39:44 24340 Unloading Plugin Stormplugin for 1.16.1
+2024. 03. 26. 22:39:44 24340 Unloading Plugin W-MODE 1.02
+2024. 03. 26. 22:39:44 24340 Logging ended
