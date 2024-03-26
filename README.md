@@ -17,3 +17,5 @@ _AI Development steps:_
   - Find minerals around Command Center
   - Send idle workers to minerals
   - Train SCV-s in Command Center
+  - Build Supply Depots
+  - Build Barracks
