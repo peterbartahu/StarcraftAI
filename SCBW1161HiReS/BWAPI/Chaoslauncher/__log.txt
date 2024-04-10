@@ -62,3 +62,10 @@
 [2024. 03. 26. 20:32:19] Injected into process "Chaoslauncher - MultiInstance.exe"
 [2024. 03. 26. 20:32:19] ICC module loaded
 [2024. 03. 26. 22:39:44] ICC module unloaded
+[2024. 04. 10. 18:47:13] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[2024. 04. 10. 18:47:13] Injected into process "Chaoslauncher.exe"
+[2024. 04. 10. 18:47:13] ICC module loaded
+[2024. 04. 10. 18:57:01] ICC module unloaded
+[2024. 04. 10. 19:04:51] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[2024. 04. 10. 19:04:51] Injected into process "Chaoslauncher.exe"
+[2024. 04. 10. 19:04:51] ICC module loaded

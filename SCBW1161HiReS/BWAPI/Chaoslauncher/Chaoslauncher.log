@@ -1,84 +1,52 @@
-2024. 02. 28. 21:11:57 19984 Logging started
-2024. 02. 28. 21:11:57 19984 Begin Startup
-2024. 02. 28. 21:11:57 19984 Chaosauncher 0.5.4.4 on NT 6.2.9200  at C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Chaoslauncher.exe
-2024. 02. 28. 21:11:57 19984 Load Settings
-2024. 02. 28. 21:11:57 19984 GamePath: C:\Starcraft\SCBW1161HiReS\
-2024. 02. 28. 21:11:57 19984 Load Plugins
-2024. 02. 28. 21:11:57 19984 AdvLoaderPluginPath: \Plugins\
-2024. 02. 28. 21:11:57 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\iccscbn.icc
-2024. 02. 28. 21:11:57 19984 Plugin loaded ICCup
-2024. 02. 28. 21:11:57 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded APMAlert (1.16.1)
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded BWAPI 4.4.0 Injector [DEBUG]
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded Chaosplugin for 1.16.1
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded LatencyChanger for 1.16.1
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\repfix.bwl
-2024. 02. 28. 21:11:58 19984 Plugin loaded RepFix
-2024. 02. 28. 21:11:58 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
-2024. 02. 28. 21:11:59 19984 Plugin loaded RWAPlayer (1.16.1)
-2024. 02. 28. 21:11:59 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
-2024. 02. 28. 21:11:59 19984 Plugin loaded RWARecorder (1.16.1)
-2024. 02. 28. 21:11:59 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
-2024. 02. 28. 21:11:59 19984 Plugin loaded Stormplugin for 1.16.1
-2024. 02. 28. 21:11:59 19984 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\wmode.bwl
-2024. 02. 28. 21:12:00 19984 Plugin loaded W-MODE 1.02
-2024. 02. 28. 21:12:00 19984 Load Tools
-2024. 02. 28. 21:12:00 19984 Init GUI
-2024. 02. 28. 21:12:00 19984 Get Starcraftversions
-2024. 02. 28. 21:12:00 19984 Init complete
-2024. 02. 28. 21:12:02 19984 Startbutton
-2024. 02. 28. 21:12:02 19984 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
-2024. 02. 28. 21:12:02 19984 APMAlert (1.16.1) Version 1.0.0.2 Compatible
-2024. 02. 28. 21:12:02 19984 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
-2024. 02. 28. 21:12:02 19984 W-MODE 1.02 Version 1.0.2 Compatible
-2024. 02. 28. 21:12:02 19984 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
+2024. 04. 10. 19:04:50 1244 Logging started
+2024. 04. 10. 19:04:51 1244 Begin Startup
+2024. 04. 10. 19:04:51 1244 Chaosauncher 0.5.4.4 on NT 6.2.9200  at C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Chaoslauncher.exe
+2024. 04. 10. 19:04:51 1244 Load Settings
+2024. 04. 10. 19:04:51 1244 GamePath: C:\Starcraft\SCBW1161HiReS\
+2024. 04. 10. 19:04:51 1244 Load Plugins
+2024. 04. 10. 19:04:51 1244 AdvLoaderPluginPath: \Plugins\
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\iccscbn.icc
+2024. 04. 10. 19:04:51 1244 Plugin loaded ICCup
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded APMAlert (1.16.1)
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded BWAPI 4.4.0 Injector [RELEASE]
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded BWAPI 4.4.0 Injector [DEBUG]
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded Chaosplugin for 1.16.1
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded LatencyChanger for 1.16.1
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\repfix.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded RepFix
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded RWAPlayer (1.16.1)
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded RWARecorder (1.16.1)
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded Stormplugin for 1.16.1
+2024. 04. 10. 19:04:51 1244 Loading BWL4-Plugin C:\Users\peter\IdeaProjects\StarcraftAI\SCBW1161HiReS\BWAPI\Chaoslauncher\Plugins\wmode.bwl
+2024. 04. 10. 19:04:51 1244 Plugin loaded W-MODE 1.02
+2024. 04. 10. 19:04:51 1244 Load Tools
+2024. 04. 10. 19:04:51 1244 Init GUI
+2024. 04. 10. 19:04:51 1244 Get Starcraftversions
+2024. 04. 10. 19:04:51 1244 Init complete
+2024. 04. 10. 19:04:53 1244 Startbutton
+2024. 04. 10. 19:04:53 1244 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
+2024. 04. 10. 19:04:53 1244 APMAlert (1.16.1) Version 1.0.0.2 Compatible
+2024. 04. 10. 19:04:53 1244 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
+2024. 04. 10. 19:04:53 1244 W-MODE 1.02 Version 1.0.2 Compatible
+2024. 04. 10. 19:04:53 1244 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
 (1300)
-2024. 02. 28. 21:12:02 19984 CreateProcess
-2024. 02. 28. 21:12:03 19984 Call ScSuspended for all active Plugins
-2024. 02. 28. 21:12:03 19984 ApplyPatchSuspended for APMAlert (1.16.1)
-2024. 02. 28. 21:12:03 19984 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:12:05 19984 ApplyPatchSuspended for W-MODE 1.02
-2024. 02. 28. 21:12:05 19984 ResumeThread
-2024. 02. 28. 21:12:05 19984 WaitForInputIdle
-2024. 02. 28. 21:12:05 19984 Call ScWindowCreated for all active Plugins
-2024. 02. 28. 21:12:05 19984 ApplyPatch for APMAlert (1.16.1)
-2024. 02. 28. 21:12:05 19984 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:12:05 19984 ApplyPatch for W-MODE 1.02
-2024. 02. 28. 21:12:05 19984 Starting Starcraft completed
-2024. 02. 28. 21:13:24 19984 Startbutton
-2024. 02. 28. 21:13:24 19984 Starting Game Starcraft 1.16.1 C:\Starcraft\SCBW1161HiReS\StarCraft.exe
-2024. 02. 28. 21:13:24 19984 APMAlert (1.16.1) Version 1.0.0.2 Compatible
-2024. 02. 28. 21:13:24 19984 BWAPI 4.4.0 Injector [RELEASE] Version  Compatible
-2024. 02. 28. 21:13:25 19984 W-MODE 1.02 Version 1.0.2 Compatible
-2024. 02. 28. 21:13:25 19984 Could not obtain SeDebugPrivilege A hívóhoz nincs hozzárendelve az összes hivatkozott jog vagy csoport.
-(1300)
-2024. 02. 28. 21:13:25 19984 CreateProcess
-2024. 02. 28. 21:13:25 19984 Call ScSuspended for all active Plugins
-2024. 02. 28. 21:13:25 19984 ApplyPatchSuspended for APMAlert (1.16.1)
-2024. 02. 28. 21:13:25 19984 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:13:26 19984 ApplyPatchSuspended for W-MODE 1.02
-2024. 02. 28. 21:13:26 19984 ResumeThread
-2024. 02. 28. 21:13:26 19984 WaitForInputIdle
-2024. 02. 28. 21:13:26 19984 Call ScWindowCreated for all active Plugins
-2024. 02. 28. 21:13:26 19984 ApplyPatch for APMAlert (1.16.1)
-2024. 02. 28. 21:13:26 19984 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:13:26 19984 ApplyPatch for W-MODE 1.02
-2024. 02. 28. 21:13:26 19984 Starting Starcraft completed
-2024. 02. 28. 21:14:10 19984 Finishing
-2024. 02. 28. 21:14:10 19984 Unloading Plugin ICCup
-2024. 02. 28. 21:14:10 19984 Unloading Plugin APMAlert (1.16.1)
-2024. 02. 28. 21:14:10 19984 Unloading Plugin BWAPI 4.4.0 Injector [RELEASE]
-2024. 02. 28. 21:14:10 19984 Unloading Plugin BWAPI 4.4.0 Injector [DEBUG]
-2024. 02. 28. 21:14:10 19984 Unloading Plugin Chaosplugin for 1.16.1
-2024. 02. 28. 21:14:10 19984 Unloading Plugin LatencyChanger for 1.16.1
-2024. 02. 28. 21:14:10 19984 Unloading Plugin RepFix
-2024. 02. 28. 21:14:10 19984 Unloading Plugin RWAPlayer (1.16.1)
-2024. 02. 28. 21:14:10 19984 Unloading Plugin RWARecorder (1.16.1)
-2024. 02. 28. 21:14:10 19984 Unloading Plugin Stormplugin for 1.16.1
-2024. 02. 28. 21:14:10 19984 Unloading Plugin W-MODE 1.02
-2024. 02. 28. 21:14:10 19984 Logging ended
+2024. 04. 10. 19:04:53 1244 CreateProcess
+2024. 04. 10. 19:04:53 1244 Call ScSuspended for all active Plugins
+2024. 04. 10. 19:04:53 1244 ApplyPatchSuspended for APMAlert (1.16.1)
+2024. 04. 10. 19:04:53 1244 ApplyPatchSuspended for BWAPI 4.4.0 Injector [RELEASE]
+2024. 04. 10. 19:04:54 1244 ApplyPatchSuspended for W-MODE 1.02
+2024. 04. 10. 19:04:54 1244 ResumeThread
+2024. 04. 10. 19:04:54 1244 WaitForInputIdle
+2024. 04. 10. 19:04:54 1244 Call ScWindowCreated for all active Plugins
+2024. 04. 10. 19:04:54 1244 ApplyPatch for APMAlert (1.16.1)
+2024. 04. 10. 19:04:54 1244 ApplyPatch for BWAPI 4.4.0 Injector [RELEASE]
+2024. 04. 10. 19:04:54 1244 ApplyPatch for W-MODE 1.02
+2024. 04. 10. 19:04:54 1244 Starting Starcraft completed

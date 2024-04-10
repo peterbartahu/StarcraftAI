@@ -29,6 +29,16 @@ public class MassMarineBot extends Bot {
         buildSupplyCommand();
         trainWorkerCommand();
         buildBarracksCommand();
+        trainMarineCommand();
+    }
+
+    private void trainMarineCommand() {
+        final Optional<Unit> baracks = findBaracks();
+        baracks.ifPresent(unit -> {
+            if (!unit.isTraining()) {
+                unit.train(UnitType.Terran_Marine);
+            }
+        });
     }
 
     private void buildBarracksCommand() {
@@ -75,10 +85,14 @@ public class MassMarineBot extends Bot {
     private void trainWorkerCommand() {
         final Optional<Unit> commandCenter = findCommandCenter(); //TODO inline variable
         commandCenter.ifPresent(unit -> {
-            if (!unit.isTraining()) {
+            if (!unit.isTraining() && getAllScvs(player()) < 16) {
                 unit.train(UnitType.Terran_SCV);
             }
         });
+    }
+
+    private int getAllScvs(final Player player) {
+        return player.allUnitCount(UnitType.Terran_SCV);
     }
 
     private void gatherResources() {
@@ -119,6 +133,10 @@ public class MassMarineBot extends Bot {
 
     private Optional<Unit> findCommandCenter() {
         return findAnyUnit(player(), filterUnitType(UnitType.Terran_Command_Center));
+    }
+
+    private Optional<Unit> findBaracks() {
+        return findAnyUnit(player(), filterUnitType(UnitType.Terran_Barracks));
     }
 
     private void showAuthor() {
